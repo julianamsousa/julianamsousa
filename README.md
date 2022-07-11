@@ -1,6 +1,6 @@
 ## Olá! Eu sou Juliana Melo
 
-- 👩‍💻 Atualmente estudando automação
+- 👩‍💻 Atualmente paticipando do Bootcamp na DIO
 
 <div align="center">
   <a href="https://github.com/julianamsousa">
