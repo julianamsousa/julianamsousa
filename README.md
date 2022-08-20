@@ -1,4 +1,4 @@
-<p align="center">Olá! Eu sou Juliana, bem vindo(a) ao meu portifólio!</p></br>
+<p align="center">Olá! Bem vindo(a) ao meu portifólio!</p></br>
 <div align="center"><a href="https://github.com/julianamsousa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianamsousa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamsousa&layout=compact&langs_count=7&theme=synthwave"/>
